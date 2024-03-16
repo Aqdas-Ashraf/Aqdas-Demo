@@ -1,4 +1,4 @@
 # Aqdas-Demo
 This is my first git repository.
-<hr>
+<br>
 author- Aqdas Ashraf
